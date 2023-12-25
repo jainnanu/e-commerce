@@ -1,0 +1,145 @@
+@media screen and (max-width:1440px) {
+    .dropbtnn {
+        padding: 10px 14px;
+        font-size: 11px;
+        margin-right: -1rem;
+    }
+
+    .form-control {
+        font-size: 10px;
+        margin-left: 10px;
+        margin-right: 0rem;
+    }
+
+    .dropbtnn i {
+        font-size: 7px;
+        margin-left: 0.5rem;
+    }
+
+    .mid-sectionn {
+        padding: 0px;
+    }
+
+    .down-drop i {
+        display: none;
+    }
+
+    .down-drop {
+        margin-right: 0rem;
+    }
+
+    .navbar-nav h6 {
+        top: 9px;
+    }
+}
+
+@media screen and (max-width:1150px) {}
+
+@media screen and (max-width:1024px) {
+    .left-k a {
+        margin-left: 0rem;
+    }
+
+    .right-k ul {
+        margin-right: 0rem;
+        padding-left: 0rem;
+    }
+
+    .last-foot-cont img {
+        display: none;
+    }
+}
+
+@media screen and (max-width:991px) {
+    .hide {
+        display: none;
+    }
+
+    .hide-conttt {
+        display: none;
+    }
+
+    .chupa-cont {
+        display: block;
+    }
+
+    .bef-service-cont {
+        margin-bottom: 20px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .content-home {
+        margin-left: 1rem;
+    }
+
+    .content-home h3 {
+        font-size: 10px;
+    }
+
+    .content-home h1 {
+        font-size: 20px;
+    }
+
+    .overflow {
+        margin-bottom: 20px;
+    }
+
+    .move {
+        position: relative;
+        left: 40rem;
+        bottom: 4.5rem;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .bef-service-cont {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width:767px){
+    .move {
+        position: relative;
+        left: 28rem;
+        bottom: 4.5rem;
+    }
+}
+
+@media screen and (max-width:535px) {
+    .move {
+        left: 22rem;
+    }
+}
+
+@media screen and (max-width:425px) {
+    .move {
+        left: 18rem;
+    }
+}
+
+@media screen and (max-width:375px) {
+    .button {
+        padding: 0.2em 1em;
+    }
+
+    .content-home h1 {
+        font-size: 13px;
+    }
+    .move {
+        left: 15rem;
+    }
+}
+
+@media screen and (max-width:320px) {
+    .move {
+        left: 14rem;
+    }
+}
+
+@media screen and (max-width:300px) {
+    .move {
+        left: 12rem;
+    }
+}
